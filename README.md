@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Resume](https://img.shields.io/badge/Resume:-open_to_work-darkgray)](CV/cv.pdf)
+[![LinkedIn](https://img.shields.io/badge/Ahmed_Yesuf_Nurye-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-yesuf/)
 
 <!--
 **ahmed-yesuf/ahmed-yesuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
