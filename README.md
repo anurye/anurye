@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![CV](https://img.shields.io/badge/CV:-open_to_work-darkgray)](CV/CV.pdf)
-[![LinkedIn](https://img.shields.io/badge/Ahmed_Yesuf_Nurye-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-yesuf/)
+[![LinkedIn](https://img.shields.io/badge/Ahmed_Yesuf_Nurye-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anurye/)
 
 <!-- <picture>
   <source
