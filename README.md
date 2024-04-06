@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Resume](https://img.shields.io/badge/Resume:-open_to_work-darkgray)](CV/CV.pdf)
+[![CV](https://img.shields.io/badge/Resume:-open_to_work-darkgray)](CV/CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/Ahmed_Yesuf_Nurye-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-yesuf/)
 
 <!-- <picture>
