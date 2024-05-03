@@ -1,8 +1,9 @@
-### Hi there 👋
-[![CV](https://img.shields.io/badge/CV:-open_to_work-darkgray)](CV/CV.pdf)
+# Hi there 👋, I'm Ahmed! Welcome to my GitHub page.
+
+[![CV](https://img.shields.io/badge/CV:-open_to_work-green)](CV/CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/Ahmed_Yesuf_Nurye-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anurye/)
 
-<!-- <picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anurye&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -12,24 +13,9 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anurye&show_icons=true" />
-</picture> -->
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anurye&repo=six-degree-of-freedom-serial-manipulator)](https://github.com/anurye/six-degree-of-freedom-serial-manipulator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anurye&repo=kinematics-of-multi-body-system)](https://github.com/anurye/kinematics-of-multi-body-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anurye&repo=navigation-with-wavefront-algorithm )](https://github.com/anurye/navigation-with-wavefront-algorithm )
--->
+</picture>
 
-<!--
-**ahmed-yesuf/ahmed-yesuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently pursuing my M.Sc. in Robotics and Automatic Control at [Warsaw University of Technology](https://eng.pw.edu.pl/), where I am advised by [Prof. Elżbieta Jarzębowska](https://www.meil.pw.edu.pl/daas/DAAS2/People/Elzbieta-Jarzebowska). My research focuses on enabling mobile robots to navigate in crowded environments for seamless collaboration and interaction with peoples.
+Additionally, I work as a Systems Engineer at [Northvolt](https://northvolt.com/), contributing to the development of the world's greenest batteries.
