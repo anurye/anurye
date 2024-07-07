@@ -3,7 +3,7 @@
 [![CV](https://img.shields.io/badge/CV:-open_to_work-green)](CV/CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/Ahmed_Yesuf_Nurye-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anurye/)
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anurye&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -13,7 +13,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anurye&show_icons=true" />
-</picture>
+</picture> -->
 
 ## About Me
 
