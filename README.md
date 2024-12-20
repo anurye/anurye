@@ -7,6 +7,9 @@ I am a Systems Engineer at [Northvolt](https://northvolt.com/), working on batte
 
 **Research Interests:**
 
+- Human-Robot Interaction
+- Social Robotics
+- Reinforcement Learning
 
 <!-- <picture>
   <source
