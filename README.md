@@ -11,7 +11,7 @@ I am a Systems Engineer at [Northvolt](https://northvolt.com/), working on batte
 - Social Robotics
 - Reinforcement Learning
 
-<!-- <picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anurye&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -21,4 +21,4 @@ I am a Systems Engineer at [Northvolt](https://northvolt.com/), working on batte
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anurye&show_icons=true" />
-</picture> -->
+</picture>
